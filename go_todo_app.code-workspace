@@ -2,6 +2,14 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "_chapter14/section54",
+			"name": "section54"
+		},
+		{
+			"path": "_chapter14/section55",
+			"name": "section55"
 		}
 	],
 	"settings": {

@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"net/http"
+	"os"
 )
 
 func main() {
@@ -13,6 +14,7 @@ func main() {
 		}),
 	)
 	if err != nil {
-		fmt.Printf("failed to terminate server: %w", err)
+		fmt.Printf("failed to terminate server: %v", err)
+		os.Exit(1)
 	}
 }
