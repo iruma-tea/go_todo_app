@@ -39,6 +39,14 @@
 			"path": "_chapter16/section64",
 			"name": "section64"
 		},
+		{
+			"path": "entity",
+			"name": "entity"
+		},
+		{
+			"path": "store",
+			"name": "store"
+		},
 	],
 	"settings": {
 		"[go]": {
