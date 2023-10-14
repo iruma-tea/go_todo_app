@@ -10,3 +10,5 @@
 - go get -u "github.com/caarlos0/env/v6"
 - go get -u "golang.org/x/sync"
 - go get -u "golang.org/x/crypto/bcrypt"
+- go get -u "github.com/google/go-cmp/cmp"
+- go get -u "github.com/go-playground/validator"

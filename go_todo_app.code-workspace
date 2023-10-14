@@ -47,6 +47,14 @@
 			"path": "store",
 			"name": "store"
 		},
+		{
+			"path": "testutil",
+			"name": "testutil"
+		},
+		{
+			"path": "handler",
+			"name": "handler"
+		},
 	],
 	"settings": {
 		"[go]": {
