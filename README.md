@@ -5,3 +5,6 @@
 
 ## サンプルサイト
 - https://github.com/budougumi0617/go_todo_app
+
+##
+- go get -u "github.com/caarlos0/env/v6"

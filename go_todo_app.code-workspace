@@ -14,7 +14,11 @@
 		{
 			"path": "_chapter14/section56",
 			"name": "section56"
-		}
+		},
+		{
+			"path": "config",
+			"name": "config"
+		},
 	],
 	"settings": {
 		"[go]": {
