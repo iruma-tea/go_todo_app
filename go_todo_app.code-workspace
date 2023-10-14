@@ -19,6 +19,10 @@
 			"path": "config",
 			"name": "config"
 		},
+		{
+			"path": "_chapter16/section60",
+			"name": "section60"
+		},
 	],
 	"settings": {
 		"[go]": {
