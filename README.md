@@ -8,3 +8,4 @@
 
 ##
 - go get -u "github.com/caarlos0/env/v6"
+- go get -u "golang.org/x/sync"
