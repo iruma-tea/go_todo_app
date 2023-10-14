@@ -55,8 +55,16 @@
 			"path": "handler",
 			"name": "handler"
 		},
+		{
+			"path": "service",
+			"name": "service"
+		},
 	],
 	"settings": {
+		"files.associations": {
+			"*.ejs": "html",
+			"*.golden": "json"
+		},
 		"[go]": {
 			"editor.insertSpaces": false,
 			"editor.formatOnSave": true,
